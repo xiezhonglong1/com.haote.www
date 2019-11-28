@@ -1,0 +1,112 @@
+.topnav{
+    width: 100%;
+    height: 60px;
+    background-color: #0071bc;
+}
+
+.top-nav{
+    height: 60px;
+    border: 1px solid red;
+}
+
+.top-nav span:nth-child(1) a:nth-child(1){
+    float: left;
+    margin-top: 10px;
+    margin-right: 109px;
+    height: 42px;
+    border: none;
+    /* vertical-align: middle; */
+}
+
+.top-nav span:nth-child(1) a{
+    float: left;
+    margin-top: 18px;
+    margin-right: 5px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 17px;
+    color: white;
+}
+
+.top-nav span:nth-child(1) a i{
+    float: left;
+    width: 23px;
+    height: 21px;
+    margin:3px 2px 0px 10px;
+}
+
+.top-nav span:nth-child(1) a h2{
+    float: left;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(2){
+    background-color: #ebf1fb;
+    color: royalblue;
+    border-radius: 12px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(2) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -25px -32px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(4) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -55px -1px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(6) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -81px -1px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(8) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -106px -1px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(10) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -133px -1px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(12) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -158px -1px;
+}
+
+.top-nav span:nth-child(1) a:nth-child(14) i{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+    background-position: -1px -32px;
+}
+
+.top-nav span:nth-child(1) b{
+    float: left;
+    margin-top: 22px;
+    margin-right: 2px;
+    font-size: 17px;
+    color: white;
+}
+
+.top-nav span:nth-child(2) a{
+    float: right;
+    height: 74px;
+    width: 122px;
+    margin-top: 0px;
+    font-size: 17px;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    background-image: url(../img-jlt/bg4.png);
+    background-repeat: no-repeat;
+    background-position: 0px -530px;
+}
