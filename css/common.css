@@ -3,9 +3,13 @@
     margin: 0px auto;
     width: 1220px;
     padding: 0px 10px;
-    /* background-color: #ffffff; */
+    background-color: #ffffff;
 }
 
+.container_vp{
+  margin: 0px auto;
+  width: 1180px;
+}
 
 
 /* 清除浮动 */
