@@ -2965,3 +2965,60 @@ body .bottomput{
     display: block;
     padding: 5px 0px 15px 0px;
 }
+
+
+/* 右部固定板 */
+.right_fixed{
+    position: fixed;
+    right: 145px;
+    bottom: 400px;
+    width: 140px;
+    height: 110px;
+    padding: 10px 0px 0px 15px;
+    background-color: #ffffff;
+}
+
+.right_fixed a{
+   display: inline-block;
+   width: 120px;
+   height: 45px;
+   font-size: 15px;
+   line-height: 45px;
+   color: #666666;
+   padding-left: 55px;
+}
+
+.right_fixed a:nth-child(1){
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.right_fixed a:nth-child(2){
+    display: inline-block;
+    margin-top: 4px;
+}
+
+.right_fixed a{
+    background-image: url(../img-jlt/bg1.png);
+    background-repeat: no-repeat;
+}
+
+.right_fixed a:hover{
+        color:#0071bc;
+}
+
+.right_fixed a:nth-child(1){
+    background-position: 0px -310px;
+}
+
+.right_fixed a:nth-child(1):hover{
+    background-position: 0px -365px;
+}
+
+.right_fixed a:nth-child(2){
+    background-position: 0px -420px;
+}
+
+.right_fixed a:nth-child(2):hover{
+    background-position: 0px -475px;
+}
