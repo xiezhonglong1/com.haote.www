@@ -59,43 +59,43 @@ body{
 }
 
 .top-nav span:nth-child(1) a:nth-child(2) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -25px -32px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(4) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -55px -1px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(6) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -81px -1px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(8) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -106px -1px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(10) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -133px -1px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(12) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -158px -1px;
 }
 
 .top-nav span:nth-child(1) a:nth-child(14) i{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -1px -32px;
 }
@@ -122,7 +122,7 @@ body{
     text-align: center;
     line-height: 60px;
     color: white;
-    background-image: url(../img-jlt/bg4.png);
+    background-image: url(../img/img-jlt/bg4.png);
     background-repeat: no-repeat;
     background-position: 0px -530px;
     z-index: 2;
@@ -179,7 +179,7 @@ body{
     margin-top: 4px;
     margin-right: 3px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg4.png);
+    background-image: url(../img/img-jlt/bg4.png);
     background-repeat: no-repeat;
     background-position: 0px -617px;
 }
@@ -236,7 +236,7 @@ body{
     margin-top: 2px;
     margin-left: 8px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg4.png);
+    background-image: url(../img/img-jlt/bg4.png);
     background-repeat: no-repeat;
     background-position: -160px -620px;
 }
@@ -248,7 +248,7 @@ body{
     margin-top: 2px;
     margin-left: 8px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg4.png);
+    background-image: url(../img/img-jlt/bg4.png);
     background-repeat: no-repeat;
     background-position: -180px -620px;
 }
@@ -297,7 +297,7 @@ body{
     display: inline-block;
     width: 55px;
     height: 55px;
-    background-image: url(../img-jlt/bg4.png);
+    background-image: url(../img/img-jlt/bg4.png);
     background-repeat: no-repeat;
 }
 
@@ -387,7 +387,7 @@ body{
     float: left;
     width: 50px;
     height: 100%;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 18px 14px;
 }
@@ -438,7 +438,7 @@ body{
 .rotation-img a i{
     position: absolute;
     top: -106px;
-    background-image: url("../img-jlt/bg4.png");
+    background-image: url("../img/img-jlt/bg4.png");
     background-repeat: no-repeat;
     width: 50px;
     height: 50px;
@@ -492,7 +492,7 @@ body{
     width: 23px;
     margin-top: 15px;
     margin: 15px 5px 0px 18px;
-    background-image: url(../img-jlt/bg7.png);
+    background-image: url(../img/img-jlt/bg7.png);
     background-repeat: no-repeat;
 }
 
@@ -607,7 +607,7 @@ body{
     display: inline-block;
     width: 15px;
     height: 15px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 5px -70px;
     margin: 0px 6px;
@@ -862,7 +862,7 @@ body{
     float: left;
     height: 100%;
     width: 20px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     margin: 0px 5px 0px 20px ;
 }
@@ -1015,7 +1015,7 @@ body{
     width: 15px;
     height: 15px;
     margin-right: 10px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -104px;
 }
@@ -1093,7 +1093,7 @@ body{
     width: 16px;
     height: 15px;
     margin: 8px 2px 0px 2px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -44px -104px;
 }
@@ -1133,7 +1133,7 @@ body{
     width: 25px;
     height: 27px;
     margin-top: 5px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -130px;
 }
@@ -1176,7 +1176,7 @@ body{
     width: 20px;
     height: 20px;
     margin-top: 5px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -165px;
 }
@@ -1317,7 +1317,7 @@ body{
     width: 17px;
     height: 17px;
     margin: 6px 32px 0px 0px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -54px -165px;
 }
@@ -1460,7 +1460,7 @@ body{
     width:  18px;
     height: 18px;
     margin-left: 15px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -105px -165px;
 }
@@ -1497,7 +1497,7 @@ body{
     height: 25px;
     margin-right: 7px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -30px -131px;
 }
@@ -1540,7 +1540,7 @@ body{
     width: 20px;
     height: 20px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -150px -165px;
 }
@@ -1703,7 +1703,7 @@ body{
      left: 66px; 
      width: 42px;
      height: 42px;
-     background-image: url(../img-jlt/bg7.png);
+     background-image: url(../img/img-jlt/bg7.png);
      background-repeat: no-repeat;
      background-position: -50px -295px;
 }
@@ -1739,7 +1739,7 @@ body{
     height: 25px;
     margin-right: 7px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -30px -131px;
 }
@@ -1779,7 +1779,7 @@ body{
     width: 20px;
     height: 20px;
     vertical-align: middle;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -150px -165px;
 }
@@ -1874,7 +1874,7 @@ body{
     width: 25px;
     height: 25px;
     margin-top: 10px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -195px;
 }
@@ -1943,7 +1943,7 @@ body{
     display: inline-block;
     width: 38px;
     height: 40px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
 }
 
@@ -2226,7 +2226,7 @@ body{
     display: inline-block;
     width: 85px;
     height: 16px;
-    background-image: url(../img-jlt/star.png);
+    background-image: url(../img/img-jlt/star.png);
     background-repeat: no-repeat;
     background-position: 0px -40px;
     vertical-align: middle;
@@ -2237,7 +2237,7 @@ body{
     width: 25px;
     height: 25px;
     margin-top: 40px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -275px;
 }
@@ -2292,7 +2292,7 @@ body{
     display: inline-block;
     width: 16px;
     height: 16px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -150px -165px;
     vertical-align: middle;
@@ -2422,7 +2422,7 @@ body{
     height: 16px;
     margin-top: 15px;
     margin-right: 13px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -60px -275px;
     vertical-align: middle;
@@ -2458,7 +2458,7 @@ body{
     height: 25px;
     margin-top: 10px;
     margin-right: 10px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -60px -130px;
     vertical-align: middle;
@@ -2506,7 +2506,7 @@ body{
     width: 21px;
     height: 21px;
     margin-top: 8px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -164px;
 }
@@ -2526,7 +2526,7 @@ body{
     width: 16px;
     height: 16px;
     margin-right: 7px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -150px -165px;
 }
@@ -2640,7 +2640,7 @@ body{
     width: 16px;
     height: 16px;
     margin-right: 5px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -150px -165px;
     vertical-align: middle;
@@ -2744,7 +2744,7 @@ body{
     display: inline-block;
     width: 100px;
     height: 15px;
-    background-image: url(../img-jlt/star.png);
+    background-image: url(../img/img-jlt/star.png);
     background-repeat: no-repeat;
     background-position: 0px -40px;
 }
@@ -2754,7 +2754,7 @@ body{
     width: 25px;
     height: 25px;
     margin-top: 40px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: 0px -275px;
 }
@@ -2787,7 +2787,7 @@ body{
     height: 25px;
     margin-right: 8px;
    margin-top: 8px;
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
     background-position: -92px -129px;
 }
@@ -2831,7 +2831,7 @@ body{
     display: inline-block;
     width: 201px;
     line-height: 35px;
-    background-image: url(../img-jlt/bg3.png);
+    background-image: url(../img/img-jlt/bg3.png);
     background-repeat: no-repeat;
     background-position: 11px 14px;
 }
@@ -2999,7 +2999,7 @@ body .bottomput{
 }
 
 .right_fixed a{
-    background-image: url(../img-jlt/bg1.png);
+    background-image: url(../img/img-jlt/bg1.png);
     background-repeat: no-repeat;
 }
 
